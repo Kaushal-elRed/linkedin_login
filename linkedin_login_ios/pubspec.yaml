@@ -29,5 +29,5 @@ flutter:
   plugin:
     implements: linkedin_login
     platforms:
-      android:
+      ios:
         dartPluginClass: LinkedinLoginIos
